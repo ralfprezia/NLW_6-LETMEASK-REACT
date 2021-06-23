@@ -1,8 +1,7 @@
 Aula 1 -Configurações, estruturação do projeto com html e css mais configuração do ambiente.
+![etapas](https://user-images.githubusercontent.com/62730168/123139996-2f78e100-d42d-11eb-995d-f8bd6c71a92c.png)
 
 ![home](https://user-images.githubusercontent.com/62730168/122970880-c7f75e80-d364-11eb-9f52-bbb483636ddd.png)
-
-![etapas](https://user-images.githubusercontent.com/62730168/123139996-2f78e100-d42d-11eb-995d-f8bd6c71a92c.png)
 
 ![criar sala](https://user-images.githubusercontent.com/62730168/122970890-ca59b880-d364-11eb-99ce-1ba273e8245f.png)
 
