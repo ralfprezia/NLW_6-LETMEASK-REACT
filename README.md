@@ -18,7 +18,7 @@ Por fim criamos um Hook.
 ![aula 2 2](https://user-images.githubusercontent.com/62730168/122970912-d04f9980-d364-11eb-9ead-52c669787c06.png)
 
 Aula 3
-Utilização dos recursos de banco de dados do Firebase, trabalhmos a manipulação de formulários no React, trabalhamos também com,
+Utilização dos recursos de banco de dados do Firebase, trabalhamos a manipulação de formulários no React, trabalhamos também com,
 referência no banco de dados, utilizamos o método push para salvar dados em uma lista no Firebase, trabalhamos o redirecionamento do usuário, verificações de sala e finalizamos com as regras para autorização do usuário no Firebase.
 
 ![perguntachegou](https://user-images.githubusercontent.com/62730168/123139779-f3458080-d42c-11eb-8319-17f8dbc4566b.png)
