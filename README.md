@@ -27,6 +27,19 @@ referência no banco de dados, utilizamos o método push para salvar dados em um
 
 ![RealtimeDatabase](https://user-images.githubusercontent.com/62730168/123139812-fb052500-d42c-11eb-9f43-7db603adb24a.png)
 
+Aula 4
+Estruturação das perguntas do Letmeask.
+Criamos hook userRoom.
+Definimos e implementamos as funcionalidades de like nas perguntas.
+![likeOk](https://user-images.githubusercontent.com/62730168/123266646-9ac8be80-d4d2-11eb-81cc-c12472a438db.png)
+Estruturamos HTML e SCSS {Admin}.
+![aula4](https://user-images.githubusercontent.com/62730168/123266751-b03de880-d4d2-11eb-950c-6077b0c60039.png)
+Implementação de remoção de perguntas.
+![removerPergunta](https://user-images.githubusercontent.com/62730168/123266697-a4eabd00-d4d2-11eb-9db1-e8c7062b98a5.png)
+Implementação do fechamento da sala.
+![encerrar sala](https://user-images.githubusercontent.com/62730168/123266496-77057880-d4d2-11eb-93dc-9626412dc86d.png)
+
+
 
 
 Em andamento...
