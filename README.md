@@ -1,5 +1,7 @@
 # NLW_6-LETMEASK-REACT
-Projeto em React utilizando Firebase.
+Projeto em React utilizando Firebase. - 
+Acesse a aplicação => https://letmeask-56c2d.web.app/   ou   https://letmeask-56c2d.firebaseapp.com/
+
 
 Aula 1 -Configurações, estruturação do projeto com html e css, mais configuração do ambiente.
 ![etapas](https://user-images.githubusercontent.com/62730168/123139996-2f78e100-d42d-11eb-995d-f8bd6c71a92c.png)
@@ -39,7 +41,17 @@ Implementação de remoção de perguntas.
 Implementação do fechamento da sala.
 ![encerrar sala](https://user-images.githubusercontent.com/62730168/123266496-77057880-d4d2-11eb-93dc-9626412dc86d.png)
 
+Aula 5
+FINAL DA MISSÃO!
+Dei uma estilizada no SCSS para esquentar o layout.
+![HOME](https://user-images.githubusercontent.com/62730168/123356973-1eb89000-d53f-11eb-86ee-da3df1d902ea.png)
+![NOVASALA](https://user-images.githubusercontent.com/62730168/123356993-2d9f4280-d53f-11eb-8e51-0ea531234251.png)
 
+Estruturamos o HTML e CSS dos destaques e questões respondidas na sala admin.
+![ADMIN](https://user-images.githubusercontent.com/62730168/123357022-3b54c800-d53f-11eb-9ee9-a18fd9a06f9b.png)
+![Room](https://user-images.githubusercontent.com/62730168/123357084-59bac380-d53f-11eb-84bb-cab572afb927.png)
 
+Hospedagem do projeto no FIREBASE
+https://letmeask-56c2d.web.app/
 
-Em andamento...
+https://letmeask-56c2d.firebaseapp.com/
