@@ -1,7 +1,7 @@
 # NLW_6-LETMEASK-REACT
 Projeto em React utilizando Firebase. 
 
-Acesse a aplicação 
+Para acessar a aplicação clique no link a baixo: 
 https://letmeask-56c2d.web.app/
 
 
