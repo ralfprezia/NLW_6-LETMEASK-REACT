@@ -31,6 +31,7 @@ referência no banco de dados, utilizamos o método push para salvar dados em um
 
 ![enviarperguntas](https://user-images.githubusercontent.com/62730168/123139803-f93b6180-d42c-11eb-838d-cadaa230c6ce.png)
 
+CONFIGURAÇÃO DAS REGRAS NO FIREBASE
 ![RealtimeDatabase](https://user-images.githubusercontent.com/62730168/123139812-fb052500-d42c-11eb-9f43-7db603adb24a.png)
 
 Aula 4
