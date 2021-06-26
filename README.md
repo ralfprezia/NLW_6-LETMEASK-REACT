@@ -1,7 +1,7 @@
 # NLW_6-LETMEASK-REACT
 Projeto em React utilizando Firebase, com alterações de layout e responsividade para Galaxy-S5, iPhone X e Moto-G4. 
 
-Para acessar a aplicação clique no link a baixo: 
+Para acessar a aplicação clique no link: 
 https://letmeask-56c2d.web.app/
 
 
