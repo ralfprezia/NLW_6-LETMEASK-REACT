@@ -64,5 +64,20 @@ https://letmeask-56c2d.firebaseapp.com/
 Vídeo Demonstrativo:
 https://user-images.githubusercontent.com/62730168/123361441-71954600-d545-11eb-8f45-fd6c5754925e.mp4
 
+Trabalhando responsividade das páginas:
+25/06 - Configuração para 360 x 640.
+![home360X640](https://user-images.githubusercontent.com/62730168/123499511-c2707180-d60d-11eb-84e9-1b8186b84e8b.png)
+![createRoom360X640](https://user-images.githubusercontent.com/62730168/123499512-c56b6200-d60d-11eb-995f-c48593139e1b.png)
+![createQuestion360X640](https://user-images.githubusercontent.com/62730168/123499513-c9977f80-d60d-11eb-9be7-15de7cd2f866.png)
+![roomQuestion360X640](https://user-images.githubusercontent.com/62730168/123499517-ce5c3380-d60d-11eb-9bb9-38c9f32c6dec.png)
+![roomAdmin360X640](https://user-images.githubusercontent.com/62730168/123499521-d1572400-d60d-11eb-847d-921517059d6d.png)
+
+
+
+
+
+
+
+
 
 
