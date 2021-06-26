@@ -15,7 +15,7 @@ LAYOUT ORIGINAL DO PROJETO
 ![criar sala](https://user-images.githubusercontent.com/62730168/122970890-ca59b880-d364-11eb-99ce-1ba273e8245f.png)
 
 Aula 2 
-Estruturamos todo o HTML, estilizamos com CSS, dentro do componente usando o SASS.
+Estruturamos todo o HTML e estilizamos com CSS.
 Criamos duas rotas e para realizar a navegação utilizamos o Use History e via Link com o Google, salvamos as informações no estado, sempre utilizando boas práticas.
 Por fim criamos um Hook.
 
@@ -36,7 +36,7 @@ CONFIGURAÇÃO DAS REGRAS NO FIREBASE
 
 Aula 4
 Estruturação das perguntas do Letmeask.
-Criamos hook userRoom.
+Criamos um hook para a userRoom.
 Definimos e implementamos as funcionalidades de like nas perguntas.
 ![likeOk](https://user-images.githubusercontent.com/62730168/123266646-9ac8be80-d4d2-11eb-81cc-c12472a438db.png)
 Estruturamos HTML e SCSS {Admin}.
