@@ -1,0 +1,343 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+
+body {
+    background: #34303f;
+    color: white;
+}
+
+body,
+input,
+button,
+textarea {
+    font: 400 16px 'Roboto', sans-serif;
+}
+
+@media screen and (max-width: 380px) {
+    body {
+        max-width: 100%;
+        height: 100%;
+        color: rgb(238, 237, 237);
+        background-color: #282A36;
+        padding: 5%;
+
+    }
+
+    header {
+        border-radius: 10px;
+
+    }
+
+    .page-home {
+        min-width: 320px;
+        width: 120%;
+    }
+
+    h1 {
+        text-align: center;
+        padding-right: inherit;
+        width: 90%;
+        margin: auto;
+
+    }
+
+    p {
+        font-size: 15px;
+    }
+
+    strong {}
+
+    .room-title {
+        font-size: 100px;
+    }
+
+    img {
+        margin-right: 5px;
+    }
+
+    .button {
+        max-width: 80%;
+        padding: 7px;
+    }
+
+    .room-code {
+        width: 60%;
+    }
+
+}
+
+@media screen and (max-width: 380px) {
+
+    #page-auth {
+        justify-content: center;
+
+
+
+        aside {
+
+            flex: 7;
+            background: #48328a;
+            color: #c58ec1;
+            width: 100%;
+            height: 100%;
+
+
+
+            padding: 0px 25px;
+
+
+            img {
+                width: 120%;
+                margin-top: 90px;
+            }
+
+            strong {
+                font: 700 14px 'Poppins', sans-serif;
+            }
+
+            p {
+                font-size: 14px;
+                line-height: 14px;
+                color: #c58ec1;
+
+            }
+        }
+
+        main {
+            width: 50%;
+            flex: 8;
+            padding: 15px;
+            height: 80%;
+        }
+
+        .main-content {
+            display: flex;
+            width: 90%;
+            max-width: 360px;
+
+
+
+
+            >img {
+                //logo
+                width: 287%;
+                align-self: center;
+                margin-bottom: 85px;
+                margin-top: -40px;
+                margin-right: 145px;
+
+                border: 1px solid rgb(133, 80, 255);
+                border-radius: 20px;
+                padding: 15px 20px 12px;
+                background: #f8f8f8;
+                box-shadow: 0 2px 12px rgb(133, 80, 255);
+
+            }
+
+            h2 {
+                font-size: 14px;
+                margin: 0px 0 24px;
+                font-family: 'Poppins', sans-serif;
+
+            }
+
+            form {
+
+                input {
+                    width: 140%;
+                    align-self: center;
+                    margin-left: 10px;
+                    border: 1px solid rgb(133, 80, 255);
+                    border-radius: 20px;
+                    padding: 15px 20px 12px;
+                    background: #f8f8f8;
+                    box-shadow: 0 2px 12px rgb(133, 80, 255);
+                    font-size: 9px;
+
+                }
+
+                button {
+                    margin-top: 16px;
+                    transition: 0.5s;
+
+                    &:hover {
+                        box-shadow: 0 2px 12px rgb(133, 80, 255);
+                    }
+
+                }
+
+                button {
+                    margin-left: 20px;
+                    font-size: 13px;
+                    padding-top: 0px;
+                    padding-bottom: 0px;
+                }
+
+                input {
+                    width: 135%;
+                    border-radius: 10px;
+                    margin-left: -11px;
+                }
+            }
+
+            p {
+                font-size: 10px;
+                color: #737388;
+                margin-top: 16px;
+            }
+
+            a {
+                color: #e559f9;
+            }
+        }
+
+        .create-room {
+            margin-top: 0px;
+            margin-left: -12px;
+            padding: 5px;
+            width: 160px;
+            height: 50px;
+            border-radius: 8px;
+            font-weight: 500;
+            background: #51971f;
+            color: #fff;
+            box-shadow: 0 2px 12px rgb(133, 80, 255);
+
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            cursor: pointer;
+            border: 0;
+
+            transition: filter 0.5s;
+
+            img {
+
+                margin-right: 0px;
+
+            }
+
+            &:hover {
+                filter: brightness(0.8);
+            }
+
+        }
+
+        .separator {
+            font-size: 9.4px;
+            color: whitesmoke;
+            align-items: center;
+            margin: 20px 0px 20px 20px;
+
+
+
+
+            &::before {
+                content: '';
+                flex: 1;
+                background: white;
+                margin-right: 16px;
+            }
+
+            &::after {
+                content: '';
+                flex: 1;
+                height: 1px;
+                background: white;
+                margin-left: 16px;
+
+            }
+
+        }
+    }
+
+}
+
+
+@media screen and (max-width: 380px) {
+    #page-room {
+        header {
+            padding: 14px;
+            border-bottom: 1px solid rgb(124, 61, 186);
+            box-shadow: 0 1px 12px rgba(133, 80, 255, 0.5);
+
+            .content {
+                width: 20%;
+                margin-left: -25px;
+                align-items: center;
+
+
+                >img {
+                    width: 100px;
+                    max-height: 100px;
+                    margin-left: 13px;
+                    border: 1px solid rgb(80, 91, 255);
+                    border-radius: 10px;
+                    padding: 10px 15px 6px;
+                    background: #f8f8f8;
+                    box-shadow: 0 1px 12px rgba(133, 80, 255, 0.5);
+
+                }
+
+                >div {
+                    display: flex;
+                    gap: 1px;
+
+
+
+                    button {
+                        width: 70px;
+                        height: 48px;
+
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 380px) {
+    .room-code {
+        width: 60%;
+        height: 40%;
+        border-radius: 8px;
+        overflow: hidden;
+        padding-right: 140px;
+
+
+
+        background: #fff;
+        border: 1px solid #835afd;
+        cursor: pointer;
+
+        display: flex;
+        box-shadow: 0 1px 12px rgba(133, 80, 255, 0.5);
+
+        div {
+            background: #835afd;
+            padding: 12px;
+            display: block;
+            justify-content: center;
+            align-items: center;
+            height: 100%;
+
+        }
+
+        span {
+            display: block;
+            align-self: center;
+            flex: 2;
+
+
+            font-size: 7px;
+            font-weight: 700;
+
+        }
+    }
+}

@@ -1,0 +1,130 @@
+#page-room {
+    header {
+        padding: 24px;
+        border-bottom: 1px solid rgb(124, 61, 186);
+        box-shadow: 0 1px 12px rgba(133, 80, 255, 0.5);
+
+        .content {
+            max-width: 1128px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+
+
+            >img {
+                max-height: 80px;
+                border: 1px solid rgb(80, 91, 255);
+                border-radius: 20px;
+                padding: 10px 15px 6px;
+                background: #f8f8f8;
+                box-shadow: 0 1px 12px rgba(133, 80, 255, 0.5);
+
+            }
+
+            >div {
+                display: flex;
+                gap: 16px;
+
+
+
+                button {
+                    height: 48px;
+
+                }
+            }
+        }
+    }
+
+    main {
+        max-width: 800px;
+        margin: 0 auto;
+
+        .room-title {
+            margin: 32px 0 24px;
+            display: flex;
+            align-items: center;
+
+            h1 {
+                font-family: 'Poppins', sans-serif;
+                font-size: 24px;
+                color: #fefefe;
+            }
+
+
+            span {
+                margin-left: 16px;
+                background: #e559f9;
+                border-radius: 15px;
+                padding: 8px 16px;
+                color: #fff;
+                font-weight: 500;
+                font-size: 14px;
+
+            }
+        }
+
+        form {
+            textarea {
+                width: 100%;
+                border: 0;
+                padding: 16px;
+                border-radius: 8px;
+                background: #fefefe;
+                box-shadow: 0 2px 12px rgb(133, 80, 255);
+                resize: vertical;
+                min-height: 130px;
+            }
+
+            .form-footer {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                margin-top: 16px;
+                border: 1px solid rgb(80, 91, 255);
+                border-radius: 10px;
+                padding: 35px 20px;
+
+                .user-info {
+                    display: flex;
+                    align-items: center;
+
+
+                    img {
+                        width: 50px;
+                        height: 50px;
+                        border-radius: 50%;
+                        border: 1px solid rgb(80, 91, 255);
+                    }
+
+                    span {
+                        margin-left: 8px;
+                        color: whitesmoke;
+                        font-weight: 500;
+                        font-size: 14px;
+                    }
+                }
+
+                >span {
+                    font-size: 14px;
+                    color: #737388;
+                    font-weight: 500;
+
+                    button {
+                        background: transparent;
+                        border: 0;
+                        color: #835AFD;
+                        text-decoration: underline;
+                        font-size: 14px;
+                        font-weight: 500;
+                        cursor: pointer;
+                    }
+                }
+            }
+        }
+
+        .question-list {
+            margin-top: 32px;
+        }
+    }
+}
