@@ -58,19 +58,14 @@ Estruturamos o HTML e CSS dos destaques e questões respondidas na sala admin.
 ![ADMIN](https://user-images.githubusercontent.com/62730168/123357022-3b54c800-d53f-11eb-9ee9-a18fd9a06f9b.png)
 ![Room](https://user-images.githubusercontent.com/62730168/123357084-59bac380-d53f-11eb-84bb-cab572afb927.png)
 
-Hospedagem do projeto no FIREBASE
+Hospedagem do projeto no FIREBASE -  https://letmeask-56c2d.web.app/  -
 ![subindo projeto](https://user-images.githubusercontent.com/62730168/123361507-8f62ab00-d545-11eb-95be-002d02167777.png)
-
-https://letmeask-56c2d.web.app/
-
-https://letmeask-56c2d.firebaseapp.com/
 
 Vídeo Demonstrativo:
 https://user-images.githubusercontent.com/62730168/123361441-71954600-d545-11eb-8f45-fd6c5754925e.mp4
 
 Trabalhando responsividade da aplicação:
 25/06 - Configurações para:
-
 
 GALAXY-S5 && MOTO-G4
 ![home360X640](https://user-images.githubusercontent.com/62730168/123499511-c2707180-d60d-11eb-84e9-1b8186b84e8b.png)
