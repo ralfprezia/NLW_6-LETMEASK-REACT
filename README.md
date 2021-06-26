@@ -64,8 +64,20 @@ https://letmeask-56c2d.firebaseapp.com/
 Vídeo Demonstrativo:
 https://user-images.githubusercontent.com/62730168/123361441-71954600-d545-11eb-8f45-fd6c5754925e.mp4
 
-Trabalhando responsividade das páginas:
-25/06 - Configuração para 360 x 640.
+Trabalhando responsividade da aplicação:
+25/06 - Configurações para:
+
+
+iPhone X
+![iPhoneX](https://user-images.githubusercontent.com/62730168/123501029-a0302100-d618-11eb-927a-f2dd3d666165.png)
+![iPhoneXCreateRoom](https://user-images.githubusercontent.com/62730168/123501037-a9b98900-d618-11eb-9dc0-165bba8d12d5.png)
+![iPhoneXQuestion](https://user-images.githubusercontent.com/62730168/123501050-bb9b2c00-d618-11eb-8207-d629a8a08026.png)
+![iPhoneXQuestionTest](https://user-images.githubusercontent.com/62730168/123501053-bdfd8600-d618-11eb-823a-834cccc0658d.png)
+![iPhoneXAdminRoom](https://user-images.githubusercontent.com/62730168/123501055-c0f87680-d618-11eb-94ab-c88f46e699c3.png)
+
+
+
+GALAXY-S5 && MOTO-G4
 ![home360X640](https://user-images.githubusercontent.com/62730168/123499511-c2707180-d60d-11eb-84e9-1b8186b84e8b.png)
 ![createRoom360X640](https://user-images.githubusercontent.com/62730168/123499512-c56b6200-d60d-11eb-995f-c48593139e1b.png)
 ![createQuestion360X640](https://user-images.githubusercontent.com/62730168/123499513-c9977f80-d60d-11eb-9be7-15de7cd2f866.png)
