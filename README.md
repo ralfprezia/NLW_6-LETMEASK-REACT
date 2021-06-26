@@ -2,7 +2,7 @@
 Projeto em React utilizando Firebase. 
 
 Acesse a aplicação 
-https://letmeask-56c2d.web.app/   ou   https://letmeask-56c2d.firebaseapp.com/
+https://letmeask-56c2d.web.app/
 
 
 Aula 1 
