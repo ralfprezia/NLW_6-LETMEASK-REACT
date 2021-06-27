@@ -55,7 +55,7 @@ Aula 5
 FINAL DA MISSÃO!
 
 LAYOUT ALTERADO
-
+![HOME](https://user-images.githubusercontent.com/62730168/123356973-1eb89000-d53f-11eb-86ee-da3df1d902ea.png)
 ![NOVASALA](https://user-images.githubusercontent.com/62730168/123356993-2d9f4280-d53f-11eb-8e51-0ea531234251.png)
 
 Estruturamos o HTML e CSS dos destaques e questões respondidas na sala admin.
