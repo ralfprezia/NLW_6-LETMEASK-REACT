@@ -1,6 +1,8 @@
 # NLW_6-LETMEASK-REACT
 Projeto em React utilizando Firebase, com alterações de layout e responsividade para Galaxy-S5, iPhone X e Moto-G4. 
 
+![HOME](https://user-images.githubusercontent.com/62730168/123356973-1eb89000-d53f-11eb-86ee-da3df1d902ea.png)
+
 Vídeo Demonstrativo:
 https://user-images.githubusercontent.com/62730168/123361441-71954600-d545-11eb-8f45-fd6c5754925e.mp4
 
@@ -54,7 +56,6 @@ FINAL DA MISSÃO!
 
 LAYOUT ALTERADO
 
-![HOME](https://user-images.githubusercontent.com/62730168/123356973-1eb89000-d53f-11eb-86ee-da3df1d902ea.png)
 ![NOVASALA](https://user-images.githubusercontent.com/62730168/123356993-2d9f4280-d53f-11eb-8e51-0ea531234251.png)
 
 Estruturamos o HTML e CSS dos destaques e questões respondidas na sala admin.
